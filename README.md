@@ -51,12 +51,9 @@ The system automatically controls lights based on environmental conditions and s
 ━━━━━━━━━━━━━━━━━━
 
 /images → project images and setup photos  
-/demo → working demonstrations  
 /docs → project documentation  
 /hardware → circuit and hardware details  
 /software → Arduino setup files  
-/src → source code files  
-/assets → branding and visuals
 
 ━━━━━━━━━━━━━━━━━━
 ⚙ Working Principle
